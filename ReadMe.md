@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="logo/deepLearning.jpg" /></p>
+<p align="center"><img width="40%" src="Logo/deepLearning.jpg" /></p>
 
 ---
 
