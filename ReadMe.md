@@ -5,6 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nabeel110/Deep-Learning-Specialization)
 ![GitHub contributors](https://img.shields.io/github/contributors/Nabeel110/Deep-Learning-Specialization)
 ![GitHub forks](https://img.shields.io/github/forks/Nabeel110/Deep-Learning-Specialization?style=social)
+![Tweeting](https://img.shields.io/linkedin/url/http/shields.io.svg?style=social)
 <div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="nl_NL" data-type="vertical" data-theme="dark" data-vanity="menno-van-der-graaf-13138490"><a class="LI-simple-link" href='https://www.linkedin.com/in/problem-solver-nabeel-ahmed/-13138490?trk=profile-badge'>Nabeel Ahmed</a></div>
 
 <p align="center"><img width="40%" src="Logo/deepLearning.jpg" /></p>
