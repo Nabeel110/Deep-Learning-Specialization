@@ -5,7 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nabeel110/Deep-Learning-Specialization)
 ![GitHub contributors](https://img.shields.io/github/contributors/Nabeel110/Deep-Learning-Specialization)
 ![GitHub forks](https://img.shields.io/github/forks/Nabeel110/Deep-Learning-Specialization?style=social)
-[![LinkedIn Follow](https://img.shields.io/linkedin/follow/nabeel?style=social)](https://www.linkedin.com/in/problem-solver-nabeel-ahmed/)
+![LinkedIn Follow](https://img.shields.io/linkedin/follow/nabeel?style=social)](https://www.linkedin.com/in/problem-solver-nabeel-ahmed/)
 
 <p align="center"><img width="40%" src="Logo/deepLearning.jpg" /></p>
 
