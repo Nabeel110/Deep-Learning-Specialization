@@ -1,3 +1,12 @@
+
+<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
+![GitHub stars](https://img.shields.io/github/stars/Nabeel110/Deep-Learning-Specialization?style=social)
+![Issues](https://img.shields.io/github/issues/Nabeel110/Deep-Learning-Specialization)
+![GitHub repo size](https://img.shields.io/github/repo-size/Nabeel110/Deep-Learning-Specialization)
+![GitHub contributors](https://img.shields.io/github/contributors/Nabeel110/Deep-Learning-Specialization)
+![GitHub forks](https://img.shields.io/github/forks/Nabeel110/Deep-Learning-Specialization?style=social)
+[![LinjedIn Follow](https://img.shields.io/linkedIn/follow/nabeel?style=social)](https://www.linkedin.com/in/problem-solver-nabeel-ahmed/)
+
 <p align="center"><img width="40%" src="Logo/deepLearning.jpg" /></p>
 
 ---
